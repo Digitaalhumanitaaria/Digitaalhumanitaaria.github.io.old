@@ -10,6 +10,9 @@
 
 % Code based on 2D Allen-Cahn Eq using pseudo-spectral with Implicit/Explicit time stepping
 % from https://en.wikibooks.org/wiki/Parallel_Spectral_Numerical_Methods/Examples_in_Matlab_and_Python#The_2D_Allen-Cahn_Equation
+% The program should run in Octave https://www.gnu.org/software/octave/
+% or Matlab http://se.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com
+
 clear all; clc;
 
 % Parameters
