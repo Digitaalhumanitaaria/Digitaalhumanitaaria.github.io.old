@@ -5,6 +5,8 @@
 % Nature 424 pp. 900 (2013)
 % http://dx.doi.org/10.1088/1367-2630/13/3/033007
 
+% The program should run in Octave https://www.gnu.org/software/octave/
+% or Matlab http://se.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com
 % Reproduce results from Figure 5
 clear all; format compact; format short;
 set(0,'defaultaxesfontsize',30,'defaultaxeslinewidth',.7,...
