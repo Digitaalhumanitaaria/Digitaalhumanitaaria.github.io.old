@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- from http://www.w3schools.com/css/css3_gradients.asp -->
+<style>
+    #grad1 {
+    height: 20px;
+    background: blue; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left top, blue, gray); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, blue, gray); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, blue, gray); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, blue, gray); /* Standard syntax (must be last) */
+}
+#fill1 {
+    height: 10px;
+    background: purple; 
+}
+</style>
+<!-- Twitter feed from https://dev.twitter.com/web/javascript/loading -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+ 
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+ 
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+</head>
+<title>eest</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="resources/w3.css">
+<body>
+
+ <div class="w3-container w3-blue-grey">
+  <h1>Eesti selts digitaal humanitaaria</h1>
+</div>
+<div id="fill1"></div>
+<div id="grad1"></div>
+
+ <ul class="w3-navbar w3-indigo">
+  <li><a href="#">About</a></li>
+  <li><a href="#">Members</a></li>
+  <li><a href="#">Constitution</a></li>
+  <li><a href="#">Other</a></li>
+  <li><a href="#">Eesti keeles</a></li>
+</ul>
+
+<div class="w3-section w3-row-padding">
+ <div class="w3-quarter w3-padding-right w3-left" >  
+  <h1 class="w3-text-shadow">We are</h1>
+ </div>
+ <div div class="w3-half w3-container w3-padding-right w3-padding-left w3-">
+  <div class="w3-container w3-light-gray">
+  <p> Digital humanities is a rapidly developing interdisciplinary area on the border of
+      the humanities, modeling and information technology, in creating and administering 
+      humanities databases, presenting source references and using these to build models
+      for cultural evolution. Various quantitative data analysis methods (statistical
+      content analysis, flow analysis, econometric models, visualization, etc.) are 
+      increasingly used in the field of the humanities, as well as creating applications
+      for public use and crowdsourcing. Through creating and applying various standards,
+      the preservation and potentially wide applicability of digital data is ensured
+      so that the identified and tagged data can be used independently of the original
+      applications or languages. 
+  </p>
+  <p>
+      The aim of the current page is to collect and disseminate the information on the 
+      digital humanities in Estonia. The page is related to the initiatives of digital
+      humanities seminars organized by Kaisa Kulasalu and Mari Sarv in the Estonian
+      Literary Museum in 2013 and 2014. The project synposes of seminars are available
+      as on the current website.
+   </p>
+  </div>
+ </div>
+ <div div class="w3-quarter w3-container w3-padding-left  w3-right">
+  <div class="w3-container w3-light-gray">
+   <div class="w3-card-4">
+     <a class="twitter-timeline"
+         href="https://twitter.com/ISChpc"
+         height="350">
+         Tweets by @ISChpc
+      </a>
+   </div> 
+   <div class="w3-card-4">
+    <p> <a href="https://digitaalhumanitaaria.github.io/poole/">Blog</a> </p>
+   </div> 
+  </div>
+ </div>
+</div>
+
+<footer class="w3-container">
+<div class="w3-container w3-white w3-center">
+     
+     <!-- Modified from buttons at simplesharebuttons.com,
+          https://www.ctan.org/tex-archive/info/lshort/estonian
+          and http://www.w3schools.com/w3css 
+          Baidu and Weibo information from http://stackoverflow.com/questions/10490443/renren-weibo-and-baidu-like-buttons-using-only-html-no-javascript 
+     -->
+
+   <a class="Facebook"
+         title="Share this page on Facebook"
+         onclick="return shareLink(this.href);"
+         href="http://www.facebook.com/sharer.php?u=https://digitaalhumanitaaria.github.io" target="_blank">
+         <img src="resources/facebook.png" alt="Share this page on Facebook" height="20" />
+   </a>
+       <a class="Twitter"
+         title="Share this page on Twitter"
+         onclick="return shareLink(this.href);"
+         href="https://twitter.com/share?url=https://digitaalhumanitaaria.github.io&amp;text=Digitaal%20Humanitaaria&amp;hashtags=digitaalhumanitaaria" target="_blank">
+         <img src="resources/twitter.png" alt="Share this page on Twitter" height="20" />
+        </a>
+       <a class="Google+"
+         title="Share this page on Google+"
+         onclick="return shareLink(this.href);"
+         href="https://plus.google.com/share?url=https://digitaalhumanitaaria.github.io" target="_blank">
+         <img src="resources/google.png" alt="Share this page on Google+" height="20" />
+        </a>
+      <a class="VK"
+         title="Share this page on VK"
+         onclick="return shareLink(this.href);"
+         href="http://vkontakte.ru/share.php?url=https://digitaalhumanitaaria.github.io" target="_blank">
+         <img src="resources/vk.png" alt="Share this page on VK" height="20" />
+        </a>
+      <a class="Linkedin"
+         title="Share this page on Linkedin"
+         onclick="return shareLink(this.href);"
+         href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://digitaalhumanitaaria.github.io" target="_blank">
+         <img src="resources/linkedin.png" alt="linkedin" height="20" />
+        </a>
+      <a class="Email"
+         title="Share this page by email"
+         onclick="return shareLink(this.href);"
+         href="mailto:?Subject=Digitaalhumanitaaria&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 https://digitaalhumanitaaria.github.io">
+         <img src="resources/email.png" alt="Share this page by email" height="20" />
+        </a>
+       <a class="XING"
+         title="Share this page on XING"
+         onclick="return shareLink(this.href);"
+         href="https://api.xing.com/v1/users/me/share/link?uri=https://digitaalhumanitaaria.github.io" target="_blank">
+       <img src="resources/xing.png" alt="XING" height="20">
+       <a class="Weibo"
+         title="Share this page on Weibo"
+         onclick="return shareLink(this.href);"
+         href="http://service.weibo.com/share/share.php?url=https://digitaalhumanitaaria.github.io" target="_blank">
+       <img src="resources/weibo.png" alt="Share this page on Weibo" height="20">
+       </a>
+       <a class="Surfing Bird"
+         title="Share this page on Surfing Bird"
+         onclick="return shareLink(this.href);"
+        href="http://surfingbird.ru/share?url=https://digitaalhumanitaaria.github.io" target="_blank">
+      <img src="resources/surf.png" alt="Share this page on Surfing Bird" height="20"> 
+      </a>
+      <a class="Baidu"
+         title="Share this page on Baidu"
+         onclick="return shareLink(this.href);"
+       href="http://like.baidu.com/set?buttontype=small&cb=bdShare.ajax._callbacks.bd4bb141b&index=0&url=https://digitaalhumanitaaria.github.io" target="_blank">
+      <img src="resources/baidu.png" alt="Share this page on Baidu" height="20"> 
+      </a>
+      <a class="Renren"
+         title="Share this page on Renren"
+         onclick="return shareLink(this.href);"
+       href="http://share.renren.com/share/buttonshare.do?link=https://digitaalhumanitaaria.github.io" target="_blank">
+      <img src="resources/renren.png" alt="Share this page on Renren" height="20"> 
+      </a>
+
+</div>
+</footer>
+</body>
+</html> 
