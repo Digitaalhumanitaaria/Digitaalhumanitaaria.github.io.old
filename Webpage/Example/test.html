@@ -15,6 +15,7 @@
     height: 10px;
     background: purple; 
 }
+.w3-navbar a{padding-top:12px !important;padding-bottom:12px !important;}
 </style>
 <!-- Twitter feed from https://dev.twitter.com/web/javascript/loading -->
 <script>window.twttr = (function(d, s, id) {
@@ -34,29 +35,36 @@
   return t;
 }(document, "script", "twitter-wjs"));</script>
 </head>
-<title>eest</title>
+<title>Eesti selts digitaal humanitaaria</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="resources/w3.css">
 <body>
 
+<!-- Top -->
+<header class="w3-top">
  <div class="w3-container w3-blue-grey">
   <h1>Eesti selts digitaal humanitaaria</h1>
-</div>
-<div id="fill1"></div>
-<div id="grad1"></div>
-
- <ul class="w3-navbar w3-indigo">
+ </div>
+ <div id="fill1"></div>
+ <div id="grad1"></div>
+ <div class="w3-navbar w3-indigo">
   <li><a href="#">About</a></li>
   <li><a href="#">Members</a></li>
   <li><a href="#">Constitution</a></li>
   <li><a href="#">Other</a></li>
   <li><a href="#">Eesti keeles</a></li>
-</ul>
+ </div>
+</header>
 
+<!-- Ensure top part does not get covered by header -->
 <div class="w3-section w3-row-padding">
+ <div style="margin-top:200px;">
+ </div>
+ <!-- Left side column -->
  <div class="w3-quarter w3-padding-right w3-left" >  
   <h1 class="w3-text-shadow">We are</h1>
  </div>
+ <!-- Main content -->
  <div div class="w3-half w3-container w3-padding-right w3-padding-left w3-">
   <div class="w3-container w3-light-gray">
   <p> Digital humanities is a rapidly developing interdisciplinary area on the border of
@@ -79,6 +87,7 @@
    </p>
   </div>
  </div>
+ <!-- Right side column -->
  <div div class="w3-quarter w3-container w3-padding-left  w3-right">
   <div class="w3-container w3-light-gray">
    <div class="w3-card-4">
@@ -95,14 +104,14 @@
  </div>
 </div>
 
-<footer class="w3-container">
+<footer class="w3-bottom">
 <div class="w3-container w3-white w3-center">
      
-     <!-- Modified from buttons at simplesharebuttons.com,
-          https://www.ctan.org/tex-archive/info/lshort/estonian
-          and http://www.w3schools.com/w3css 
-          Baidu and Weibo information from http://stackoverflow.com/questions/10490443/renren-weibo-and-baidu-like-buttons-using-only-html-no-javascript 
-     -->
+<!-- Modified from buttons at simplesharebuttons.com,
+ https://www.ctan.org/tex-archive/info/lshort/estonian
+ and http://www.w3schools.com/w3css 
+ Baidu and Weibo information from http://stackoverflow.com/questions/10490443/renren-weibo-and-baidu-like-buttons-using-only-html-no-javascript 
+-->
 
    <a class="Facebook"
          title="Share this page on Facebook"
