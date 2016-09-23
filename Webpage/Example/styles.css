@@ -147,8 +147,8 @@ margin-left:7px;
 background-image:url(images/leftcol_bottom.png)	;
 background-repeat:no-repeat;
 width:220px;
-height:13px;
-margin-bottom:13px;
+height:0px;
+margin-bottom:0px;
 }
 
 .rightcol_bottom
@@ -189,6 +189,7 @@ background-color:#AFD3EB;
 background-image:url(images/leftcol_top.jpg);
 background-repeat:no-repeat;
 width:210px;
+height:348px;
 
 }
 
@@ -223,6 +224,7 @@ text-align:right;
 .rightcol 
 {
 text-align:right;
+
 }
 
 .maincol
@@ -259,6 +261,10 @@ width:210px;
 	margin-right:7px;
 	font-size:21px;
 	margin-bottom:6px;
+		padding-left:5px;
+padding-right:5px;	
+padding-bottom:15px;	
+padding-top:15px;
 }
 
 .rightcol a
@@ -269,12 +275,13 @@ width:210px;
 	color: #FFFFFF;
 	link: #FFFFFF;
 	margin-bottom:6px;
+
 }
 
 .rightcol a:hover {
 color:#FF0;
 text-decoration:none;
-background-color:#000000;
+#background-color:#000000;
 }
 
 .maincol h2
