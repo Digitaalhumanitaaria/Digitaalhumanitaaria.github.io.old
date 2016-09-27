@@ -2,7 +2,6 @@
 		      <div id="main">
 		      <div id="leftcol_container">
     	<div class="leftcol">
-		       	<h2></h2>
         	<ul>
             	<li><a href="#">Järgmine seltsi kohtumine on 13.10.2016</a></li><br>
             	<li><a href="#">Eesti DH konverents 13-14.10.2016</a></li><br>

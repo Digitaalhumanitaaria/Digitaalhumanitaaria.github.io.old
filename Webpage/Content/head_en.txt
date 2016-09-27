@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+	<head>
+		<title>Estonian Society for Digital Humanities</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15" />
+		<link rel="stylesheet" href="styles.css" />
+		<!-- Twitter feed from https://dev.twitter.com/web/javascript/loading -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+ 
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+ 
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+	</head>
+
+	<body>
+	<div id="container">
+	<div id="header">
+	    <div id="picture">
+            <h1></h1>
+            <h2></h2>
+        </div>
+    </div>
+
+			  
+		  <div id="haut">
+			<ul class="menuhaut">
+				<li><a href="index_en.html">About</a></li>
+				<li><a href="">What is Digital Humanities?</a></li>
+				<li><a href="">What is the aim of the society?</a></li>
+				<li><a href="">Members</a></li>
+				<li><a href="">Documents</a></li>
+				<li><a href="">Events</a></li>
+				<li><a href="index_et.html">in Estonian</a></li>
+			</ul>
+		  </div>

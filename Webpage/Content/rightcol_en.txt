@@ -1,0 +1,27 @@
+
+			     <div id="rightcol_container">
+        
+        
+        <div class="rightcol">
+        <h2><a href="#"><center>How to join us</center></a></li></h2>
+        </div>
+        <div class="rightcol_bottom"></div>
+        <div class="rightcol">
+     <a class="twitter-timeline"
+         href="https://twitter.com/ISChpc"
+         height="350">
+         Tweets by @ISChpc
+      </a>
+        </div>
+        <div class="rightcol_bottom"></div>
+		        
+		
+	</div>
+	
+	<div class="clear"></div>
+				<div id="footer"><center><a href="#">Contact Us</a><br></center><h3>Design by <a href="http://nicolas.freezee.org">Nicolas Fafchamps</a></div>
+
+		</div>
+		</div>
+	</body>
+</html>
