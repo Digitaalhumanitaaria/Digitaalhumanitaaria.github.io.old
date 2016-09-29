@@ -3,10 +3,10 @@
 		      <div id="leftcol_container">
     	<div class="leftcol">
         	<ul>
-            	<li><a href="#">Järgmine seltsi kohtumine on 13.10.2016</a></li><br><br>
+            	<li><a href="#">JÃ¤rgmine seltsi kohtumine on 13.10.2016</a></li><br><br>
             	<li><a href="#">Eesti DH konverents 13-14.10.2016</a></li><br><br>
             	<li><a href="#">Hiljutine blogisissekanne</a></li><br><br>
-            	<li><a href="#">Veel üks blogisissekanne</a></li><br><br>
+            	<li><a href="#">Veel Ã¼ks blogisissekanne</a></li><br><br>
             </ul>
             
 		</div>
