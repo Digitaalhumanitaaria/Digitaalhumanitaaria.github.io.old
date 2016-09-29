@@ -37,10 +37,10 @@
 			<ul class="menuhaut">
 				<li><a href="index_et.html">Kodu</a></li>
 				<li><a href="2dh_et.html">Mis on digitaalhumanitaaria?</a></li>
-				<li><a href="3sihid_et.html">Mis on seltsi eesmärk?</a></li>
 				<li><a href="4liikmed_et.html">Liikmed</a></li>
 				<li><a href="5dok_et.html">Dokumendid</a></li>
 				<li><a href="6toimub_et.html">Sündmused</a></li>
 				<li><a href="index_en.html">in English</a></li>
 			</ul>
 		  </div>
+		  <div class="clear"></div>

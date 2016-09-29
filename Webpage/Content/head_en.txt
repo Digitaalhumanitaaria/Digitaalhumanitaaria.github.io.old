@@ -38,10 +38,10 @@
 			<ul class="menuhaut">
 				<li><a href="index_en.html">About</a></li>
 				<li><a href="">What is Digital Humanities?</a></li>
-				<li><a href="">What is the aim of the society?</a></li>
 				<li><a href="">Members</a></li>
 				<li><a href="">Documents</a></li>
 				<li><a href="">Events</a></li>
 				<li><a href="index_et.html">in Estonian</a></li>
 			</ul>
 		  </div>
+		  <div class="clear"></div>

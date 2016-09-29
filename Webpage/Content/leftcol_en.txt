@@ -4,10 +4,10 @@
     	<div class="leftcol">
 		       	<h2></h2>
         	<ul>
-            	<li><a href="#">Next upcoming meeting at 13.10.2016</a></li>
-            	<li><a href="#">Estonian DH meeting at 13-14.10.2016</a></li>
-            	<li><a href="#">A recent blog entry title</a></li>
-            	<li><a href="#">Anoter recent blog entry title</a></li>
+            	<li><a href="#">Next upcoming meeting at 13.10.2016</a></li><br><br>
+            	<li><a href="#">Estonian DH meeting at 13-14.10.2016</a></li><br><br>
+            	<li><a href="#">A recent blog entry title</a></li><br><br>
+            	<li><a href="#">Anoter recent blog entry title</a></li><br><br>
             </ul>
             
 		</div>
