@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<title>Estonian Society for Digital Humanities</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<link rel="stylesheet" href="styles.css" />
 		<!-- Twitter feed from https://dev.twitter.com/web/javascript/loading -->
 <script>window.twttr = (function(d, s, id) {
@@ -39,7 +39,7 @@
 				<li><a href="2dh_et.html">Mis on digitaalhumanitaaria?</a></li>
 				<li><a href="4liikmed_et.html">Liikmed</a></li>
 				<li><a href="5dok_et.html">Dokumendid</a></li>
-				<li><a href="6toimub_et.html">Sündmused</a></li>
+				<li><a href="6toimub_et.html">SÃŒndmused</a></li>
 				<li><a href="index_en.html">in English</a></li>
 			</ul>
 		  </div>
