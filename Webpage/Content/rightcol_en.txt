@@ -6,7 +6,7 @@
         <h2><a href="#"><center>How to join us</center></a></li></h2>
         </div>
         <div class="rightcol_bottom"></div>
-        <div class="rightcol">
+        <div class="rightcol2">
      <a class="twitter-timeline"
          href="https://twitter.com/ISChpc"
          height="350">
@@ -19,7 +19,7 @@
 	</div>
 	
 	<div class="clear"></div>
-				<div id="footer"><center><a href="#">Contact Us</a><br></center><h3>Design by <a href="http://nicolas.freezee.org">Nicolas Fafchamps</a></div>
+				<div id="footer"><center><h3><a href="#">Contact Us</a><br></center><h3>Web based on templates by <a href="http://www.bryantsmith.com">Bryant Smith</a> and <a href="http://nicolas.freezee.org">Nicolas Fafchamps</a></div>
 
 		</div>
 		</div>
