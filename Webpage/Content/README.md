@@ -8,24 +8,24 @@ python kirjutanhtml.py
 
 mis võtab tekstsissekandeid failid:
 
-head_en.txt
-head_et.txt
-home_en.txt
-home_et.txt
-leftcol_en.txt
-leftcol_et.txt
-rightcol_en.txt
-rightcol_et.txt
+head_en.txt\\
+head_et.txt\\
+home_en.txt\\
+home_et.txt\\
+leftcol_en.txt\\
+leftcol_et.txt\\
+rightcol_en.txt\\
+rightcol_et.txt\\
 
-pildid
+pildid:\\
 
-images
-images0
+images\\
+images0\\
 
 ja genereerida
 
-index_en.html
-index_et.html
+index_en.html\\
+index_et.html\\
 
 Et tagada vajalik väljapanek Eesti märki, tekstifaile
 tuleb salvestada UTF 8 formaadis.
@@ -39,24 +39,24 @@ python kirjutanhtml.py
 
 which will take the text entries in the files:
 
-head_en.txt
-head_et.txt
-home_en.txt
-home_et.txt
-leftcol_en.txt
-leftcol_et.txt
-rightcol_en.txt
-rightcol_et.txt
+head_en.txt\\
+head_et.txt\\
+home_en.txt\\
+home_et.txt\\
+leftcol_en.txt\\
+leftcol_et.txt\\
+rightcol_en.txt\\
+rightcol_et.txt\\
 
 the images in
 
-images
-images0
+images\\
+images0\\
 
 and generate
 
-index_en.html
-index_et.html
+index_en.html\\
+index_et.html\\
 
 To ensure proper display of Estonian characters, text files
 should be saved in utf8 format.
