@@ -1,0 +1,90 @@
+<footer class="w3-bottom">
+<div class="w3-container w3-green ">
+     
+<!-- Modified from buttons at simplesharebuttons.com,
+ https://www.ctan.org/tex-archive/info/lshort/estonian
+ and http://www.w3schools.com/w3css 
+ Baidu and Weibo information from http://stackoverflow.com/questions/10490443/renren-weibo-and-baidu-like-buttons-using-only-html-no
+-javascript 
+-->
+
+    <a class="Github"
+       title="Check us out on Github"
+       onclick="return shareLink(this.href);"
+       href="https://github.com/Digitaalhumanitaaria" target="_blank">
+       <img src="resources/github.png" alt="Check us out on Github" height="20" />
+    </a>
+    <a class="Facebook"
+       title="Share this page on Facebook"
+       onclick="return shareLink(this.href);"
+       href="http://www.facebook.com/sharer.php?u=https://digitaalhumanitaaria.github.io" target="_blank">
+       <img src="resources/facebook.png" alt="Share this page on Facebook" height="20" />
+    </a>
+    <a class="Twitter"
+       title="Share this page on Twitter"
+       onclick="return shareLink(this.href);"
+       href="https://twitter.com/share?url=https://digitaalhumanitaaria.github.io&amp;text=Digitaal%20Humanitaaria&amp;hashtags=digi
+taalhumanitaaria" target="_blank">
+       <img src="resources/twitter.png" alt="Share this page on Twitter" height="20" />
+    </a>
+    <a class="Google+"
+       title="Share this page on Google+"
+       onclick="return shareLink(this.href);"
+       href="https://plus.google.com/share?url=https://digitaalhumanitaaria.github.io" target="_blank">
+       <img src="resources/google.png" alt="Share this page on Google+" height="20" />
+    </a>
+    <a class="VK"
+       title="Share this page on VK"
+       onclick="return shareLink(this.href);"
+       href="http://vkontakte.ru/share.php?url=https://digitaalhumanitaaria.github.io" target="_blank">
+       <img src="resources/vk.png" alt="Share this page on VK" height="20" />
+    </a>
+    <a class="Linkedin"
+       title="Share this page on Linkedin"
+       onclick="return shareLink(this.href);"
+       href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://digitaalhumanitaaria.github.io" target="_blank">
+       <img src="resources/linkedin.png" alt="linkedin" height="20" />
+    </a>
+    <a class="Email"
+       title="Share this page by email"
+       onclick="return shareLink(this.href);"
+       href="mailto:?Subject=Digitaalhumanitaaria&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 https://digitaalhumanitaari
+a.github.io">
+       <img src="resources/email.png" alt="Share this page by email" height="20" />
+    </a>
+    <a class="XING"
+       title="Share this page on XING"
+       onclick="return shareLink(this.href);"
+       href="https://api.xing.com/v1/users/me/share/link?uri=https://digitaalhumanitaaria.github.io" target="_blank">
+       <img src="resources/xing.png" alt="XING" height="20">
+    <a class="Weibo"
+       title="Share this page on Weibo"
+       onclick="return shareLink(this.href);"
+       href="http://service.weibo.com/share/share.php?url=https://digitaalhumanitaaria.github.io" target="_blank">
+       <img src="resources/weibo.png" alt="Share this page on Weibo" height="20">
+    </a>
+    <a class="Surfing Bird"
+       title="Share this page on Surfing Bird"
+       onclick="return shareLink(this.href);"
+       href="http://surfingbird.ru/share?url=https://digitaalhumanitaaria.github.io" target="_blank">
+       <img src="resources/surf.png" alt="Share this page on Surfing Bird" height="20"> 
+    </a>
+    <a class="Baidu"
+       title="Share this page on Baidu"
+       onclick="return shareLink(this.href);"
+       href="http://like.baidu.com/set?buttontype=small&cb=bdShare.ajax._callbacks.bd4bb141b&index=0&url=https://digitaalhumanitaari
+a.github.io" target="_blank">
+       <img src="resources/baidu.png" alt="Share this page on Baidu" height="20"> 
+    </a>
+    <a class="Renren"
+       title="Share this page on Renren"
+       onclick="return shareLink(this.href);"
+       href="http://share.renren.com/share/buttonshare.do?link=https://digitaalhumanitaaria.github.io" target="_blank">
+       <img src="resources/renren.png" alt="Share this page on Renren" height="20"> 
+    </a>
+
+</div>
+</footer>
+</body>
+</html> 
+

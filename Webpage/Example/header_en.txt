@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- from http://www.w3schools.com/css/css3_gradients.asp -->
+<style>
+    #grad1 {
+    height: 20px;
+    background: blue; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left top, blue, gray); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, blue, gray); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, blue, gray); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, blue, gray); /* Standard syntax (must be last) */
+}
+#fill1 {
+    height: 10px;
+    background: purple; 
+}
+.w3-navbar a{padding-top:12px !important;padding-bottom:12px !important;}
+</style>
+<!-- Twitter feed from https://dev.twitter.com/web/javascript/loading -->
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+ 
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+ 
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+</head>
+<title>Eesti digitaal humanitaaria selts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="resources/w3.css">
+<body>
+
+<!-- Top -->
+ <header class="w3-top">
+ <ul class="w3-navbar w3-large">
+ <!-- clickable option to allow for expandable header, three line symbol trick from
+  https://css-tricks.com/three-line-menu-navicon/
+ -->
+ <li class="w3-hide-medium w3-hide-large w3-opennav w3-right">
+  <a href="javascript:void(0);" onclick="myFunction()">&#9776 Menu</a>  
+ </li> 
+ <div class="w3-container w3-white">
+  <li class="w3-hide-small"> 
+    <img src="images/header_dh_914.png" class="w3-hover-opacity" style="width:100%" alt="Eesti digitaal humanitaaria selts">
+  </li> 
+ </div>
+ <!-- <div class="w3-container w3-white">
+  <li class="w3-hide-small"> 
+   <h1>Eesti digitaal humanitaaria selts</h1>
+  </li> 
+ </div> -->
+ <div class="w3-navbar w3-light-blue w3-hide-small">
+    <a class="w3-text-red w3-center" href="#">About</a>
+    <a class="w3-text-red w3-center" href="#">What is digital humanities</a>
+    <a class="w3-text-red w3-center" href="#">Members</a>
+    <a class="w3-text-red w3-center" href="#">Documents</a>
+    <a class="w3-text-red w3-center" href="#">Events</a>
+    <a class="w3-text-red w3-center" href="#">Eesti keeles</a>
+  </div> 
+ </ul>
+ 
+ <!-- Expandable header -->
+ <div id="demo" class="w3-hide w3-hide-large w3-hide-medium">
+ <ul class="w3-navbar w3-left-align w3-large w3-light-blue">
+  <h3>Eesti digitaal humanitaaria selts</h3>
+  <li><a class="w3-text-red" href="#">About</a></li>
+  <li><a class="w3-text-red" href="#">What is digital humanities</a></li>
+  <li><a class="w3-text-red" href="#">Members</a></li>
+  <li><a class="w3-text-red" href="#">Documents</a></li>
+  <li><a class="w3-text-red" href="#">Events</a></li>
+  <li><a class="w3-text-red" href="#">Eesti keeles</a></li>
+ </ul>
+ </div>
+ 
+ <!-- Script to allow collapsable header from
+ http://www.w3schools.com/w3css/w3css_navigation.asp --> 
+<script>
+function myFunction() {
+    var x = document.getElementById("demo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else { 
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
+</header>
+
+<!-- Ensure top part does not get covered by header on full screen -->
+<div class="w3-section w3-row-padding">
+ <div style="margin-top:250px;">
+ </div>
+

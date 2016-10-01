@@ -1,0 +1,19 @@
+<!-- Ensure top part does not get covered by header on full screen -->
+<div class="w3-section w3-row-padding">
+ <div style="margin-top:200px;">
+ </div>
+ <!-- Left side column -->
+ <div div class="w3-quarter w3-container w3-padding-right  w3-left">
+    <div class="w3-card">
+    <h3> Blog </h3>
+
+<ul>
+                <li><a href="#">Next upcoming meeting at 13.10.2016</a></li><br><br>
+                <li><a href="#">Estonian DH meeting at 13-14.10.2016</a></li><br><br>
+                <li><a href="#">A recent blog entry title</a></li><br><br>
+                <li><a href="#">Anoter recent blog entry title</a></li><br><br>
+            </ul>
+
+   </div> 
+ </div>
+
