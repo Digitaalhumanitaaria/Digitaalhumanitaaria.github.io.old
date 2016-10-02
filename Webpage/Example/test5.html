@@ -38,6 +38,7 @@
 <title>Eesti digitaal humanitaaria selts</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="resources/w3.css">
+<link rel="stylesheet" href="resources/styles.css">
 <body>
 
 <!-- Top -->
@@ -59,18 +60,29 @@
    <h1>Eesti digitaal humanitaaria selts</h1>
   </li> 
  </div> -->
- <div class="w3-navbar w3-light-blue w3-hide-small">
+      <div id="haut">
+          <ul class="menuhaut">
+               <li><a href="index_en.html">About</a></li>
+                <li><a href="">What is Digital Humanities?</a></li>
+                <li><a href="">Members</a></li>
+                <li><a href="">Documents</a></li>
+                <li><a href="">Events</a></li>
+                <li><a href="index_et.html">Eesti keeles</a></li>
+            </ul>
+           </div>
+         <div class="clear"></div>
+<!-- <div class="w3-navbar w3-light-blue w3-hide-small">
     <a class="w3-text-red w3-center" href="#">About</a>
     <a class="w3-text-red w3-center" href="#">What is digital humanities</a>
     <a class="w3-text-red w3-center" href="#">Members</a>
     <a class="w3-text-red w3-center" href="#">Documents</a>
     <a class="w3-text-red w3-center" href="#">Events</a>
     <a class="w3-text-red w3-center" href="#">Eesti keeles</a>
-  </div> 
- </ul>
+  </div> -->
+ 
  
  <!-- Expandable header -->
- <div id="demo" class="w3-hide w3-hide-large w3-hide-medium">
+ <div id="expandable" class="w3-hide w3-hide-large w3-hide-medium">
  <ul class="w3-navbar w3-left-align w3-large w3-light-blue">
   <h3>Eesti digitaal humanitaaria selts</h3>
   <li><a class="w3-text-red" href="#">About</a></li>
@@ -86,7 +98,7 @@
  http://www.w3schools.com/w3css/w3css_navigation.asp --> 
 <script>
 function myFunction() {
-    var x = document.getElementById("demo");
+    var x = document.getElementById("expandable");
     if (x.className.indexOf("w3-show") == -1) {
         x.className += " w3-show";
     } else { 
@@ -95,34 +107,33 @@ function myFunction() {
 }
 </script>
 </header>
-
+<div id="main">
 <!-- Ensure top part does not get covered by header on full screen -->
 <div class="w3-section w3-row-padding">
- <div style="margin-top:250px;">
+ <div style="margin-top:300px;">
  </div>
+ <div class="w3-container w3-padding-right w3-white  w3-left">
 
-<!-- Ensure top part does not get covered by header on full screen -->
-<div class="w3-section w3-row-padding">
- <div style="margin-top:200px;">
+
+<!-- Left side column -->
+<div class="w3-quarter w3-container w3-padding-right w3-white  w3-left">
+ <div id="leftcol_container"> 
+  <h2 class="w3-text-red w3-large"> News </h2> 
+ <!-- <div class="leftcol"> -->
+    <!-- Embed using iframe, http://www.w3schools.com/tags/tag_iframe.asp -->
+     <iframe src="events_en.html" width="100%" height="250" allowfullscreen sandbox>
+      <p> <a href="events_en.html">
+          Fallback link for browsers that don't support iframes
+          </a> </p>
+       </iframe>
+
+  <!-- </div> -->
  </div>
- <!-- Left side column -->
- <div div class="w3-quarter w3-container w3-padding-right  w3-left">
-    <div class="w3-card">
-    <h3> Blog </h3>
-
-<ul>
-                <li><a href="#">Next upcoming meeting at 13.10.2016</a></li><br><br>
-                <li><a href="#">Estonian DH meeting at 13-14.10.2016</a></li><br><br>
-                <li><a href="#">A recent blog entry title</a></li><br><br>
-                <li><a href="#">Anoter recent blog entry title</a></li><br><br>
-            </ul>
-
-   </div> 
- </div>
-
+</div>
  <!-- Main content -->
- <div div class="w3-half w3-container w3-padding-left w3-padding-right w3-center">
-  <div class="w3-container w3-light-gray">
+ <div div class="w3-half w3-container w3-padding-left w3-padding-right w3-white w3-center">
+  <div class="w3-container w3-white ">
+   <div class="maincol"> 
   <p> Digital humanities is a rapidly developing interdisciplinary area on the border of
       the humanities, modeling and information technology, in creating and administering 
       humanities databases, presenting source references and using these to build models
@@ -141,29 +152,40 @@ function myFunction() {
       Literary Museum in 2013 and 2014. The project synposes of seminars are available
       as on the current website.
    </p>
+   </div>
+   <div class="maincol_bottom"></div>
   </div>
  </div>
 
 <!-- Right side column -->
  <div class="w3-quarter w3-padding-left w3-right" >  
-  <div class="w3-container w3-blue>
-  <li><a href="#">Join us</a></li><br><br>
+  <div class="w3-container ">
+   <div class="rightcol">
+    <li><a href="#">Join us</a></li><br><br>
    </div>
-  <div class="w3-container w3-light-gray">
+  </div>
+  <div class="w3-container ">
    <div class="w3-card">
+     <div class="rightcol_bottom"></div>
+        <div class="rightcol2">
      <a class="twitter-timeline"
          href="https://twitter.com/ISChpc"
          height="350">
          Tweets by @ISChpc
       </a>
-   </div> 
+         </div>
+       <div class="rightcol_bottom"></div>
+     </div> 
+    <div class="clear"></div>
   </div>
-
   </div>
 </div>
 
+ </div>
+</div>
 <footer class="w3-bottom">
-<div class="w3-container w3-green ">
+<div class="w3-container w3-teal">
+<div class="clear"></div>
      
 <!-- Modified from buttons at simplesharebuttons.com,
  https://www.ctan.org/tex-archive/info/lshort/estonian
@@ -171,7 +193,7 @@ function myFunction() {
  Baidu and Weibo information from http://stackoverflow.com/questions/10490443/renren-weibo-and-baidu-like-buttons-using-only-html-no
 -javascript 
 -->
-
+<div id="footer"><center>
     <a class="Github"
        title="Check us out on Github"
        onclick="return shareLink(this.href);"
@@ -247,6 +269,7 @@ a.github.io" target="_blank">
        <img src="resources/renren.png" alt="Share this page on Renren" height="20"> 
     </a>
 
+ </div>
 </div>
 </footer>
 </body>

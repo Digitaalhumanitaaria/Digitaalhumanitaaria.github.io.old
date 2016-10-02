@@ -1,19 +1,15 @@
-<!-- Ensure top part does not get covered by header on full screen -->
-<div class="w3-section w3-row-padding">
- <div style="margin-top:200px;">
+<!-- Left side column -->
+<div class="w3-quarter w3-container w3-padding-right w3-white  w3-left">
+ <div id="leftcol_container"> 
+  <h2 class="w3-text-red w3-large"> News </h2> 
+ <!-- <div class="leftcol"> -->
+    <!-- Embed using iframe, http://www.w3schools.com/tags/tag_iframe.asp -->
+     <iframe src="events_en.html" width="100%" height="250" allowfullscreen sandbox>
+      <p> <a href="events_en.html">
+          Fallback link for browsers that don't support iframes
+          </a> </p>
+       </iframe>
+
+  <!-- </div> -->
  </div>
- <!-- Left side column -->
- <div div class="w3-quarter w3-container w3-padding-right  w3-left">
-    <div class="w3-card">
-    <h3> Blog </h3>
-
-<ul>
-                <li><a href="#">Next upcoming meeting at 13.10.2016</a></li><br><br>
-                <li><a href="#">Estonian DH meeting at 13-14.10.2016</a></li><br><br>
-                <li><a href="#">A recent blog entry title</a></li><br><br>
-                <li><a href="#">Anoter recent blog entry title</a></li><br><br>
-            </ul>
-
-   </div> 
- </div>
-
+</div>

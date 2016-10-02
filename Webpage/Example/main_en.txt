@@ -1,6 +1,7 @@
  <!-- Main content -->
- <div div class="w3-half w3-container w3-padding-left w3-padding-right w3-center">
-  <div class="w3-container w3-light-gray">
+ <div div class="w3-half w3-container w3-padding-left w3-padding-right w3-white w3-center">
+  <div class="w3-container w3-white ">
+   <div class="maincol"> 
   <p> Digital humanities is a rapidly developing interdisciplinary area on the border of
       the humanities, modeling and information technology, in creating and administering 
       humanities databases, presenting source references and using these to build models
@@ -19,6 +20,8 @@
       Literary Museum in 2013 and 2014. The project synposes of seminars are available
       as on the current website.
    </p>
+   </div>
+   <div class="maincol_bottom"></div>
   </div>
  </div>
 

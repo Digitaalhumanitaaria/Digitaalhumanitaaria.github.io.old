@@ -1,5 +1,8 @@
+ </div>
+</div>
 <footer class="w3-bottom">
-<div class="w3-container w3-green ">
+<div class="w3-container w3-teal">
+<div class="clear"></div>
      
 <!-- Modified from buttons at simplesharebuttons.com,
  https://www.ctan.org/tex-archive/info/lshort/estonian
@@ -7,7 +10,7 @@
  Baidu and Weibo information from http://stackoverflow.com/questions/10490443/renren-weibo-and-baidu-like-buttons-using-only-html-no
 -javascript 
 -->
-
+<div id="footer"><center>
     <a class="Github"
        title="Check us out on Github"
        onclick="return shareLink(this.href);"
@@ -83,6 +86,7 @@ a.github.io" target="_blank">
        <img src="resources/renren.png" alt="Share this page on Renren" height="20"> 
     </a>
 
+ </div>
 </div>
 </footer>
 </body>

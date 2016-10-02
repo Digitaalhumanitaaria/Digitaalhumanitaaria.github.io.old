@@ -38,6 +38,7 @@
 <title>Eesti digitaal humanitaaria selts</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="resources/w3.css">
+<link rel="stylesheet" href="resources/styles.css">
 <body>
 
 <!-- Top -->
@@ -59,18 +60,29 @@
    <h1>Eesti digitaal humanitaaria selts</h1>
   </li> 
  </div> -->
- <div class="w3-navbar w3-light-blue w3-hide-small">
+      <div id="haut">
+          <ul class="menuhaut">
+               <li><a href="index_en.html">About</a></li>
+                <li><a href="">What is Digital Humanities?</a></li>
+                <li><a href="">Members</a></li>
+                <li><a href="">Documents</a></li>
+                <li><a href="">Events</a></li>
+                <li><a href="index_et.html">Eesti keeles</a></li>
+            </ul>
+           </div>
+         <div class="clear"></div>
+<!-- <div class="w3-navbar w3-light-blue w3-hide-small">
     <a class="w3-text-red w3-center" href="#">About</a>
     <a class="w3-text-red w3-center" href="#">What is digital humanities</a>
     <a class="w3-text-red w3-center" href="#">Members</a>
     <a class="w3-text-red w3-center" href="#">Documents</a>
     <a class="w3-text-red w3-center" href="#">Events</a>
     <a class="w3-text-red w3-center" href="#">Eesti keeles</a>
-  </div> 
- </ul>
+  </div> -->
+ 
  
  <!-- Expandable header -->
- <div id="demo" class="w3-hide w3-hide-large w3-hide-medium">
+ <div id="expandable" class="w3-hide w3-hide-large w3-hide-medium">
  <ul class="w3-navbar w3-left-align w3-large w3-light-blue">
   <h3>Eesti digitaal humanitaaria selts</h3>
   <li><a class="w3-text-red" href="#">About</a></li>
@@ -86,7 +98,7 @@
  http://www.w3schools.com/w3css/w3css_navigation.asp --> 
 <script>
 function myFunction() {
-    var x = document.getElementById("demo");
+    var x = document.getElementById("expandable");
     if (x.className.indexOf("w3-show") == -1) {
         x.className += " w3-show";
     } else { 
@@ -95,9 +107,11 @@ function myFunction() {
 }
 </script>
 </header>
-
+<div id="main">
 <!-- Ensure top part does not get covered by header on full screen -->
 <div class="w3-section w3-row-padding">
- <div style="margin-top:250px;">
+ <div style="margin-top:300px;">
  </div>
+ <div class="w3-container w3-padding-right w3-white  w3-left">
+
 
