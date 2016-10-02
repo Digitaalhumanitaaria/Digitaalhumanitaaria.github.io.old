@@ -1,8 +1,6 @@
- </div>
 </div>
 <footer class="w3-bottom">
-<div class="w3-container w3-teal">
-<div class="clear"></div>
+<div class="w3-container w3-teal ">
      
 <!-- Modified from buttons at simplesharebuttons.com,
  https://www.ctan.org/tex-archive/info/lshort/estonian
@@ -85,10 +83,11 @@ a.github.io" target="_blank">
        href="http://share.renren.com/share/buttonshare.do?link=https://digitaalhumanitaaria.github.io" target="_blank">
        <img src="resources/renren.png" alt="Share this page on Renren" height="20"> 
     </a>
-
+  </div>
  </div>
-</div>
 </footer>
 </body>
+</div>
+</div>
 </html> 
 
