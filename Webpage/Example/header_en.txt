@@ -52,7 +52,7 @@
  </li> 
  <div class="w3-container w3-white">
   <li class="w3-hide-small"> 
-    <img src="images/header_dh_914.png" class="w3-hover-opacity" style="width:100%" alt="Eesti digitaal humanitaaria selts">
+    <img src="resources/header_dh_914.png" class="w3-hover-opacity" style="width:100%" alt="Eesti digitaal humanitaaria selts">
   </li> 
  </div>
  <!-- <div class="w3-container w3-white">
