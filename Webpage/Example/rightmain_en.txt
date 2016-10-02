@@ -1,0 +1,20 @@
+<!-- Right side column -->
+
+ <div class="w3-quarter w3-padding-left w3-right" >
+  <div class="w3-container ">
+  <div class="w3-card w3-cyan">
+     <br>
+     <li><a href="#">How to join us</a></li>
+     <br>
+   </div>
+   <div class="w3-card">
+     <a class="twitter-timeline"
+         href="https://twitter.com/ISChpc"
+         height="350">
+         Tweets by @ISChpc
+      </a>
+  </div>
+
+
+</div>
+</div>

@@ -3,19 +3,16 @@
 <head>
 <!-- from http://www.w3schools.com/css/css3_gradients.asp -->
 <style>
-    #grad1 {
-    height: 20px;
-    background: blue; /* For browsers that do not support gradients */    
-    background: -webkit-linear-gradient(left top, blue, gray); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(bottom right, blue, gray); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(bottom right, blue, gray); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to bottom right, blue, gray); /* Standard syntax (must be last) */
+div {
+    max-width: 950px;
 }
-#fill1 {
-    height: 10px;
-    background: purple; 
+.lefttext {
+ text-align: left;
 }
-.w3-navbar a{padding-top:12px !important;padding-bottom:12px !important;}
+.center {
+margin-left: auto;
+margin-right: auto;
+}
 </style>
 <!-- Twitter feed from https://dev.twitter.com/web/javascript/loading -->
 <script>window.twttr = (function(d, s, id) {
@@ -38,46 +35,44 @@
 <title>Eesti digitaal humanitaaria selts</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="resources/w3.css">
-<link rel="stylesheet" href="resources/styles.css">
+<link rel="stylesheet" href="resources/styles.css"> 
 <body>
 
 <!-- Top -->
- <div class="w3-container w3-gray w3-margin-left w3-margin-right"> 
- <header class="w3-top">
- <ul class="w3-navbar w3-large">
+<div class="center">
+ <div class="w3-top" >
+ <div class="w3-navbar w3-large" >
  <!-- clickable option to allow for expandable header, three line symbol trick from
   https://css-tricks.com/three-line-menu-navicon/
  -->
- <li class="w3-hide-medium w3-hide-large w3-opennav w3-right">
+ <li class="w3-hide-medium w3-hide-large w3-opennav ">
   <a href="javascript:void(0);" onclick="myFunction()">&#9776 Menu</a>  
  </li> 
  <div class="w3-container w3-white ">
   <li class="w3-hide-small "> 
-    <img src="resources/header_dh_914.png" style="width:100%" alt="Eesti digitaal humanitaaria selts">
+    <img src="resources/header_dh_914.jpg" style="width:100%" alt="Eesti digitaal humanitaaria selts">
   </li> 
  </div>
-      <div id="haut">
-          <ul class="menuhaut">
-               <li><a href="index_en.html">About</a></li>
-                <li><a href="">What is Digital Humanities?</a></li>
-                <li><a href="">Members</a></li>
-                <li><a href="">Documents</a></li>
-                <li><a href="">Events</a></li>
-                <li><a href="index_et.html">Eesti keeles</a></li>
-            </ul>
-           </div>
- 
- 
+      
+  <ul class="w3-navbar w3-indigo w3-hide-small w3-right-align" >
+   <li><a class="w3-right w3-ripple" href="index_en.html">About</a></li>
+   <li><a class="w3-right w3-ripple" href="">What is Digital Humanities?</a></li>
+   <li><a class="w3-right w3-ripple" href="">Members</a></li>
+   <li><a class="w3-right w3-ripple" href="">Documents</a></li>
+   <li><a class="w3-right w3-ripple" href="">Events</a></li>
+   <li><a class="w3-right w3-ripple" href="index_et.html">Eesti keeles</a></li>
+  </ul>
+  </div>
  <!-- Expandable header -->
  <div id="expandable" class="w3-hide w3-hide-large w3-hide-medium">
- <ul class="w3-navbar w3-left-align w3-large w3-light-blue">
+ <ul class="w3-navbar w3-right-align w3-medium w3-indigo">
   <h3>Eesti digitaal humanitaaria selts</h3>
-  <li><a class="w3-text-red" href="#">About</a></li>
-  <li><a class="w3-text-red" href="#">What is digital humanities</a></li>
-  <li><a class="w3-text-red" href="#">Members</a></li>
-  <li><a class="w3-text-red" href="#">Documents</a></li>
-  <li><a class="w3-text-red" href="#">Events</a></li>
-  <li><a class="w3-text-red" href="#">Eesti keeles</a></li>
+  <li><a class="w3-right w3-ripple" href="#">About</a></li>
+  <li><a class="w3-right w3-ripple" href="#">What is digital humanities</a></li>
+  <li><a class="w3-right w3-ripple" href="#">Members</a></li>
+  <li><a class="w3-right w3-ripple" href="#">Documents</a></li>
+  <li><a class="w3-right w3-ripple" href="#">Events</a></li>
+  <li><a class="w3-right w3-ripple" href="#">Eesti keeles</a></li>
  </ul>
  </div>
  
@@ -93,12 +88,7 @@ function myFunction() {
     }
 }
 </script>
-</header>
-<div id="main">
-<!-- Ensure top part does not get covered by header on full screen -->
-<div class="w3-section w3-row-padding">
- <div style="margin-top:300px;">
- </div>
- <div class="w3-container w3-padding-right w3-white  w3-center w3-padding-left">
 
+</div>
+</div>
 

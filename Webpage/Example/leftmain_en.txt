@@ -1,0 +1,18 @@
+<!-- Left side column -->
+
+ <div class="w3-quarter w3-container w3-padding-right w3-white  w3-left">
+  <div class="w3-third w3-left ">
+   <div class class="w3-cyan " style="height:100%;width:100%">
+   </div>
+  </div>
+   <div class="w3-two-third w3-container w3-padding-right w3-white  w3-right">
+   <h2 class="w3-text-red w3-large"> News </h2> 
+   <iframe src="events_en.html" width="100%" height="250" allowfullscreen sandbox>
+    <p> <a href="events_en.html">
+        Fallback link for browsers that don't support iframes
+        </a> 
+    </p>
+   </iframe>
+  </div>
+ </div>
+

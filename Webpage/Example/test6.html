@@ -3,7 +3,16 @@
 <head>
 <!-- from http://www.w3schools.com/css/css3_gradients.asp -->
 <style>
-<!-- .w3-navbar a{padding-top:12px !important;padding-bottom:12px !important;} -->
+div {
+    max-width: 950px;
+}
+.lefttext {
+ text-align: left;
+}
+.center {
+margin-left: auto;
+margin-right: auto;
+}
 </style>
 <!-- Twitter feed from https://dev.twitter.com/web/javascript/loading -->
 <script>window.twttr = (function(d, s, id) {
@@ -24,46 +33,46 @@
 }(document, "script", "twitter-wjs"));</script>
 </head>
 <title>Eesti digitaal humanitaaria selts</title>
-<meta name="viewport" content="width=700px">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="resources/w3.css">
 <link rel="stylesheet" href="resources/styles.css"> 
 <body>
 
 <!-- Top -->
- <div class="w3-container w3-gray w3-margin-left w3-margin-right"> 
- <header class="w3-top">
- <ul class="w3-navbar w3-large" >
+<div class="center">
+ <div class="w3-top" >
+ <div class="w3-navbar w3-large" >
  <!-- clickable option to allow for expandable header, three line symbol trick from
   https://css-tricks.com/three-line-menu-navicon/
  -->
- <li class="w3-hide-medium w3-hide-large w3-opennav w3-right">
+ <li class="w3-hide-medium w3-hide-large w3-opennav ">
   <a href="javascript:void(0);" onclick="myFunction()">&#9776 Menu</a>  
  </li> 
- <div class="w3-container w3-gray " content="width=800px">
+ <div class="w3-container w3-white ">
   <li class="w3-hide-small "> 
-    <img src="resources/header_dh_914.png" style="width:100%" alt="Eesti digitaal humanitaaria selts">
+    <img src="resources/header_dh_914.jpg" style="width:100%" alt="Eesti digitaal humanitaaria selts">
   </li> 
  </div>
       
-  <div class="w3-navbar w3-light-blue w3-hide-small" width: 800px;>
-      <li><a class="w3-text-white" href="index_en.html">About</a></li>
-      <li><a class="w3-text-white" href="">What is Digital Humanities?</a></li>
-      <li><a class="w3-text-white" href="">Members</a></li>
-      <li><a class="w3-text-white" href="">Documents</a></li>
-      <li><a class="w3-text-white" href="">Events</a></li>
-      <li><a class="w3-text-white" href="index_et.html">Eesti keeles</a></li>
+  <ul class="w3-navbar w3-indigo w3-hide-small w3-right-align" >
+   <li><a class="w3-right w3-ripple" href="index_en.html">About</a></li>
+   <li><a class="w3-right w3-ripple" href="">What is Digital Humanities?</a></li>
+   <li><a class="w3-right w3-ripple" href="">Members</a></li>
+   <li><a class="w3-right w3-ripple" href="">Documents</a></li>
+   <li><a class="w3-right w3-ripple" href="">Events</a></li>
+   <li><a class="w3-right w3-ripple" href="index_et.html">Eesti keeles</a></li>
+  </ul>
   </div>
- 
  <!-- Expandable header -->
  <div id="expandable" class="w3-hide w3-hide-large w3-hide-medium">
- <ul class="w3-navbar w3-left-align w3-large w3-light-blue">
+ <ul class="w3-navbar w3-right-align w3-medium w3-indigo">
   <h3>Eesti digitaal humanitaaria selts</h3>
-  <li><a class="w3-text-red" href="#">About</a></li>
-  <li><a class="w3-text-red" href="#">What is digital humanities</a></li>
-  <li><a class="w3-text-red" href="#">Members</a></li>
-  <li><a class="w3-text-red" href="#">Documents</a></li>
-  <li><a class="w3-text-red" href="#">Events</a></li>
-  <li><a class="w3-text-red" href="#">Eesti keeles</a></li>
+  <li><a class="w3-right w3-ripple" href="#">About</a></li>
+  <li><a class="w3-right w3-ripple" href="#">What is digital humanities</a></li>
+  <li><a class="w3-right w3-ripple" href="#">Members</a></li>
+  <li><a class="w3-right w3-ripple" href="#">Documents</a></li>
+  <li><a class="w3-right w3-ripple" href="#">Events</a></li>
+  <li><a class="w3-right w3-ripple" href="#">Eesti keeles</a></li>
  </ul>
  </div>
  
@@ -80,84 +89,85 @@ function myFunction() {
 }
 </script>
 
-</header>
-<!-- Ensure top part does not get covered by header on full screen -->
- <div style="margin-top:250px;">
- </div>
+</div>
+</div>
 
-<div id="main">
-<div class="w3-section w3-row-padding" content="width=800px" >
+<!-- Main Body -->
+<div class="center">
+<div id="main" style="margin-top:255px;">
+<div class="w3-section w3-row-padding"  >
 <div class="w3-container w3-padding-right w3-white  w3-center w3-padding-left">
 
 
 <!-- Left side column -->
-<div class="w3-quarter w3-container w3-padding-right w3-white  w3-left">
- <div id="leftcol_container"> 
-  <h2 class="w3-text-red w3-large"> News </h2> 
- <!-- <div class="leftcol"> -->
-    <!-- Embed using iframe, http://www.w3schools.com/tags/tag_iframe.asp -->
-     <iframe src="events_en.html" width="100%" height="250" allowfullscreen sandbox>
-      <p> <a href="events_en.html">
-          Fallback link for browsers that don't support iframes
-          </a> </p>
-       </iframe>
 
-  <!-- </div> -->
+ <div class="w3-quarter w3-container w3-padding-right w3-white  w3-left">
+  <div class="w3-third w3-left ">
+   <div class class="w3-cyan " style="height:100%;width:100%">
+   </div>
+  </div>
+   <div class="w3-two-third w3-container w3-padding-right w3-white  w3-right">
+   <h2 class="w3-text-red w3-large"> News </h2> 
+   <iframe src="events_en.html" width="100%" height="250" allowfullscreen sandbox>
+    <p> <a href="events_en.html">
+        Fallback link for browsers that don't support iframes
+        </a> 
+    </p>
+   </iframe>
+  </div>
  </div>
-</div>
- <!-- Main content -->
- <div div class="w3-half w3-container w3-padding-left w3-padding-right w3-white w3-center">
-   <div class="maincol"> 
+
+<!-- Main content -->
+
+ <div class="w3-half w3-container w3-padding-left w3-padding-right w3-white w3-center">
+ <div class="lefttext">
   <p> Digital humanities is a rapidly developing interdisciplinary area on the border of
-      the humanities, modeling and information technology, in creating and administering 
+      the humanities, modeling and information technology, in creating and administering
       humanities databases, presenting source references and using these to build models
       for cultural evolution. Various quantitative data analysis methods (statistical
-      content analysis, flow analysis, econometric models, visualization, etc.) are 
+      content analysis, flow analysis, econometric models, visualization, etc.) are
       increasingly used in the field of the humanities, as well as creating applications
       for public use and crowdsourcing. Through creating and applying various standards,
       the preservation and potentially wide applicability of digital data is ensured
       so that the identified and tagged data can be used independently of the original
-      applications or languages. 
+      applications or languages.
   </p>
   <p>
-      The aim of the current page is to collect and disseminate the information on the 
+      The aim of the current page is to collect and disseminate the information on the
       digital humanities in Estonia. The page is related to the initiatives of digital
       humanities seminars organized by Kaisa Kulasalu and Mari Sarv in the Estonian
       Literary Museum in 2013 and 2014. The project synposes of seminars are available
       as on the current website.
    </p>
    </div>
-   <div class="maincol_bottom"></div>
- </div>
+   </div>
 
 <!-- Right side column -->
- <div class="w3-quarter w3-padding-left w3-right" >  
+
+ <div class="w3-quarter w3-padding-left w3-right" >
   <div class="w3-container ">
-  <div class="w3-card w3-blue"> 
- <!-- <div class="rightcol"> -->
-    <li><a href="#">Join us</a></li><br><br>
+  <div class="w3-card w3-cyan">
+     <br>
+     <li><a href="#">How to join us</a></li>
+     <br>
    </div>
- <!-- </div> -->
    <div class="w3-card">
-     <div class="rightcol_bottom"></div>
-        <div class="rightcol2">
      <a class="twitter-timeline"
          href="https://twitter.com/ISChpc"
          height="350">
          Tweets by @ISChpc
       </a>
-         </div>
-       <div class="rightcol_bottom"></div>
-     </div> 
-    <div class="clear"></div>
   </div>
-  </div>
-</div>
+
 
 </div>
-<footer class="w3-bottom">
-<div class="w3-container w3-teal ">
-     
+</div>
+</div>
+</div>
+
+<div class="center">
+<div class="w3-bottom">
+<div class="w3-container w3-blue-grey ">
 <!-- Modified from buttons at simplesharebuttons.com,
  https://www.ctan.org/tex-archive/info/lshort/estonian
  and http://www.w3schools.com/w3css 
@@ -224,26 +234,25 @@ a.github.io">
        title="Share this page on Surfing Bird"
        onclick="return shareLink(this.href);"
        href="http://surfingbird.ru/share?url=https://digitaalhumanitaaria.github.io" target="_blank">
-       <img src="resources/surf.png" alt="Share this page on Surfing Bird" height="20"> 
+       <img src="resources/surf.png" alt="Share this page on Surfing Bird" height="20">
     </a>
     <a class="Baidu"
        title="Share this page on Baidu"
        onclick="return shareLink(this.href);"
        href="http://like.baidu.com/set?buttontype=small&cb=bdShare.ajax._callbacks.bd4bb141b&index=0&url=https://digitaalhumanitaari
 a.github.io" target="_blank">
-       <img src="resources/baidu.png" alt="Share this page on Baidu" height="20"> 
+       <img src="resources/baidu.png" alt="Share this page on Baidu" height="20">
     </a>
     <a class="Renren"
        title="Share this page on Renren"
        onclick="return shareLink(this.href);"
        href="http://share.renren.com/share/buttonshare.do?link=https://digitaalhumanitaaria.github.io" target="_blank">
-       <img src="resources/renren.png" alt="Share this page on Renren" height="20"> 
+       <img src="resources/renren.png" alt="Share this page on Renren" height="20">
     </a>
   </div>
- </div>
-</footer>
-</body>
-</div>
-</div>
-</html> 
 
+</div>
+</div>
+</div>
+</body>
+</html> 

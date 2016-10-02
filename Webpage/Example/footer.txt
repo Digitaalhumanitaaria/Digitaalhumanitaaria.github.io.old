@@ -1,7 +1,6 @@
-</div>
-<footer class="w3-bottom">
-<div class="w3-container w3-teal ">
-     
+<div class="center">
+<div class="w3-bottom">
+<div class="w3-container w3-blue-grey ">
 <!-- Modified from buttons at simplesharebuttons.com,
  https://www.ctan.org/tex-archive/info/lshort/estonian
  and http://www.w3schools.com/w3css 
@@ -68,26 +67,25 @@ a.github.io">
        title="Share this page on Surfing Bird"
        onclick="return shareLink(this.href);"
        href="http://surfingbird.ru/share?url=https://digitaalhumanitaaria.github.io" target="_blank">
-       <img src="resources/surf.png" alt="Share this page on Surfing Bird" height="20"> 
+       <img src="resources/surf.png" alt="Share this page on Surfing Bird" height="20">
     </a>
     <a class="Baidu"
        title="Share this page on Baidu"
        onclick="return shareLink(this.href);"
        href="http://like.baidu.com/set?buttontype=small&cb=bdShare.ajax._callbacks.bd4bb141b&index=0&url=https://digitaalhumanitaari
 a.github.io" target="_blank">
-       <img src="resources/baidu.png" alt="Share this page on Baidu" height="20"> 
+       <img src="resources/baidu.png" alt="Share this page on Baidu" height="20">
     </a>
     <a class="Renren"
        title="Share this page on Renren"
        onclick="return shareLink(this.href);"
        href="http://share.renren.com/share/buttonshare.do?link=https://digitaalhumanitaaria.github.io" target="_blank">
-       <img src="resources/renren.png" alt="Share this page on Renren" height="20"> 
+       <img src="resources/renren.png" alt="Share this page on Renren" height="20">
     </a>
   </div>
- </div>
-</footer>
-</body>
-</div>
-</div>
-</html> 
 
+</div>
+</div>
+</div>
+</body>
+</html> 

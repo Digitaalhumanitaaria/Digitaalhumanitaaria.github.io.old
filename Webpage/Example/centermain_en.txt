@@ -1,27 +1,25 @@
- <!-- Main content -->
- <div div class="w3-half w3-container w3-padding-left w3-padding-right w3-white w3-center">
-  <div class="w3-container w3-white ">
-   <div class="maincol"> 
+<!-- Main content -->
+
+ <div class="w3-half w3-container w3-padding-left w3-padding-right w3-white w3-center">
+ <div class="lefttext">
   <p> Digital humanities is a rapidly developing interdisciplinary area on the border of
-      the humanities, modeling and information technology, in creating and administering 
+      the humanities, modeling and information technology, in creating and administering
       humanities databases, presenting source references and using these to build models
       for cultural evolution. Various quantitative data analysis methods (statistical
-      content analysis, flow analysis, econometric models, visualization, etc.) are 
+      content analysis, flow analysis, econometric models, visualization, etc.) are
       increasingly used in the field of the humanities, as well as creating applications
       for public use and crowdsourcing. Through creating and applying various standards,
       the preservation and potentially wide applicability of digital data is ensured
       so that the identified and tagged data can be used independently of the original
-      applications or languages. 
+      applications or languages.
   </p>
   <p>
-      The aim of the current page is to collect and disseminate the information on the 
+      The aim of the current page is to collect and disseminate the information on the
       digital humanities in Estonia. The page is related to the initiatives of digital
       humanities seminars organized by Kaisa Kulasalu and Mari Sarv in the Estonian
       Literary Museum in 2013 and 2014. The project synposes of seminars are available
       as on the current website.
    </p>
    </div>
-   <div class="maincol_bottom"></div>
-  </div>
- </div>
+   </div>
 
