@@ -144,7 +144,7 @@ margin-left:7px;
 
 .leftcol_bottom
 {
-background-image:url(images/leftcol_bottom.png)	;
+background-image:url(leftcol_bottom.png)	;
 background-repeat:no-repeat;
 width:220px;
 height:0px;
@@ -153,7 +153,7 @@ margin-bottom:0px;
 
 .rightcol_bottom
 {
-background-image:url(images/rightcol_bottom.png)	;
+background-image:url(rightcol_bottom.png)	;
 background-repeat:no-repeat;
 width:220px;
 height:13px;
@@ -163,7 +163,7 @@ margin-bottom:13px;
 
 .maincol_bottom
 {
-background-image:url(images/maincol_bottom.png)	;
+background-image:url(maincol_bottom.png)	;
 background-repeat:no-repeat;
 width:447px;
 height:13px;
@@ -186,7 +186,7 @@ padding-top:12px;
 {
 display:block;
 background-color:#AFD3EB;
-background-image:url(images/leftcol_top.jpg);
+background-image:url(leftcol_top.jpg);
 background-repeat:no-repeat;
 width:210px;
 height:348px;
@@ -230,7 +230,7 @@ text-align:right;
 .maincol
 {
 display:block;
-background-image:url(images/maincol_top.png);
+background-image:url(maincol_top.png);
 background-repeat:no-repeat;
 background-color:#EEF5FB;
 width:437px;
@@ -240,7 +240,7 @@ width:437px;
 {
 display:block;
 background-color:#6dc1c1;
-background-image:url(images/rightcol_top.png);
+background-image:url(rightcol_top.png);
 background-repeat:no-repeat;
 width:210px;
 }
@@ -323,7 +323,7 @@ margin-top:20px;
 {
 	width:900px;
 	height:208px;
-	background-image:url(images/picture.jpg);
+	background-image:url(picture.jpg);
 	background-repeat:no-repeat;	
 }
 
