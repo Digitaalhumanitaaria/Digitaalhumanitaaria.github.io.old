@@ -42,19 +42,11 @@ margin-right: auto;
 <div class="center">
  <div class="w3-top" >
  <div class="w3-navbar w3-large" >
- <!-- clickable option to allow for expandable header, three line symbol trick from
-  https://css-tricks.com/three-line-menu-navicon/
- -->
- <li class="w3-hide-medium w3-hide-large w3-opennav ">
-  <a href="javascript:void(0);" onclick="myFunction()">&#9776 Menu</a>  
- </li> 
  <div class="w3-container w3-white ">
-  <li class="w3-hide-small "> 
     <img src="resources/header_dh_914.jpg" style="width:100%" alt="Eesti digitaal humanitaaria selts">
-  </li> 
  </div>
       
-  <ul class="w3-navbar w3-indigo w3-hide-small w3-right-align" >
+  <ul class="w3-navbar w3-indigo w3-right-align" >
    <li><a class="w3-right w3-ripple" href="index_en.html">About</a></li>
    <li><a class="w3-right w3-ripple" href="">What is Digital Humanities?</a></li>
    <li><a class="w3-right w3-ripple" href="">Members</a></li>
@@ -62,33 +54,7 @@ margin-right: auto;
    <li><a class="w3-right w3-ripple" href="">Events</a></li>
    <li><a class="w3-right w3-ripple" href="index_et.html">Eesti keeles</a></li>
   </ul>
-  </div>
- <!-- Expandable header -->
- <div id="expandable" class="w3-hide w3-hide-large w3-hide-medium">
- <ul class="w3-navbar w3-right-align w3-medium w3-indigo">
-  <h3>Eesti digitaal humanitaaria selts</h3>
-  <li><a class="w3-right w3-ripple" href="#">About</a></li>
-  <li><a class="w3-right w3-ripple" href="#">What is digital humanities</a></li>
-  <li><a class="w3-right w3-ripple" href="#">Members</a></li>
-  <li><a class="w3-right w3-ripple" href="#">Documents</a></li>
-  <li><a class="w3-right w3-ripple" href="#">Events</a></li>
-  <li><a class="w3-right w3-ripple" href="#">Eesti keeles</a></li>
- </ul>
  </div>
- 
- <!-- Script to allow collapsable header from
- http://www.w3schools.com/w3css/w3css_navigation.asp --> 
-<script>
-function myFunction() {
-    var x = document.getElementById("expandable");
-    if (x.className.indexOf("w3-show") == -1) {
-        x.className += " w3-show";
-    } else { 
-        x.className = x.className.replace(" w3-show", "");
-    }
-}
-</script>
-
-</div>
+ </div>
 </div>
 
