@@ -5,6 +5,15 @@
 <style>
 div {
     max-width: 950px;
+    font-size:medium;
+}
+#grad1 {
+    height: 700px; 
+    background: white; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left top, WhiteSmoke, WhiteSmoke); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, WhiteSmoke, WhiteSmoke); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, WhiteSmoke, WhiteSmoke); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, WhiteSmoke, WhiteSmoke); /* Standard syntax (must be last) */
 }
 .lefttext {
  text-align: left;

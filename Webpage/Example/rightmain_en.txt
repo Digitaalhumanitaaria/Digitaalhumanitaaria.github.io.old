@@ -1,7 +1,6 @@
 <!-- Right side column -->
 
- <div class="w3-quarter w3-padding-left w3-right" >
-  <div class="w3-container ">
+ <div class="w3-col w3-padding-left w3-right "  style="width:15%"  >
   <div class="w3-card w3-cyan">
      <br>
      <li><a href="#">How to join us</a></li>
@@ -14,7 +13,4 @@
          Tweets by @ISChpc
       </a>
   </div>
-
-
-</div>
 </div>
