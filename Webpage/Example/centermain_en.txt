@@ -1,6 +1,6 @@
 <!-- Main content -->
 
- <div class="w3-col  w3-white  "  style="width:35%"  >
+ <div class="w3-col w3-white "  style="width:38%"  >
  <div class="lefttext">
   <p> Digital humanities is a rapidly developing interdisciplinary area on the border of
       the humanities, modeling and information technology, in creating and administering
