@@ -1,0 +1,55 @@
+
+
+Digitaalhumanitaaria on kiiresti arenev interdistsiplinaarne liikumine, mis keskendub infotehnoloogiliste lahenduste rakendamisele ja juurutamisele humanitaarteadustes. Arvutiprogrammid on muutunud praeguseks paljude humanitaarteadlaste töö lahutamatuks kaaslaseks ning hetkeküsimuseks on, kuidas kasutada neid võimalikult targalt, nii et uutest lahendustest võita võimalikult palju, pidades silmas et seejuures säiliks humanitaarteaduste eripära. 
+
+Esmajärgus on tuntust kogunud digitaalandmete võimalus pakkuda humanitaarteadustes korraga ülevaadet suurematest andmekogumitest ning sellega kaasnenud analüüsivõimalustest. Humanitaarteaduste uurimistsükkel võimaldab infotehnoloogia tarka kasutust aga ka tema teistes etappides nagu andmete hoiustamine, ligipääs, esitlemine ja levitamine. Digitaalsed tööriistad võimaldavad hea kasutuse puhul muuta tsüklit kiiremaks (korduvate ülesannete automatiseerimise kaudu), läbipaistvamaks (uurimisprotsessi ning andmete ligipääsetavamaks muutmise kaudu), sügavamaks (uute vahenditega võib saada algallikatest rohkem informatsiooni) ja usaldusväärsemaks (läbipaistvus ja kontrollitud protseduurid võimaldavad hinnata järelduste ulatust).
+
+Digitaalhumanitaaria teadlik viljelemine saab tuua kasu nii uurijatele, kes saavad keskenduda teadmiste loomisele, kui ka laiemale avalikkusele võimaldades uusi viise uurimistulemuste ja protsessiga suhestumiseks ning ehk ka kodanikuteaduse korras kaasa aitamiseks.
+
+
+	
+	
+Digital humanities is a rapidly developing interdisciplinary area on the border of the humanities, modeling and information technology, in creating and administering humanities databases, presenting source references and using these to build models for cultural evolution. Various quantitative data analysis methods (statistical content analysis, flow analysis, econometric models, visualization, etc.) are increasingly used in the field of the humanities, as well as creating applications for public use and crowdsourcing. Through creating and applying various standards, the preservation and potentially wide applicability of digital data is ensured so that the identified and tagged data can be used independently of the original applications or languages.
+
+
+
+Digitaalhumanitaaria on valdkond, mis keskendub infotehnoloogiliste lahenduste rakendamisele ja juurutamisele humanitaarteadustes. IT-rakenduste kasutamine on saanud humanitaarteadlaste igapäevatöö osaks ning selle teadlikum haldamine ja uurimistööga seostamine toob kasu nii uurijatele kui avalikkusele. Digitaalsete meetodite kasutamine toetab humanitaarteaduste arengut ning avab uusi vaatenurki ja lähenemisviise. 
+
+
+
+
+
+Digital humanities is research area which focuses on applying and establishing information technology to help humanities. IT applications have become a part of daily work in the humanities, and their more knowledgeable use and integration into research practices can benefit both the researchers and the public. Digital methods can support the humanities and open up new perspectives and approaches. 
+
+
+
+Digitaalhumanitaaria (ingl digital humanities) on kiiresti arenev interdistsiplinaarne valdkond, mis hõlmab humanitaarteaduste ja infotehnoloogia ühisosa, seda nii humanitaarala andmekogude loomises ja haldamises kui ka allikate ja uurimistulemuste esitamises ning uurimistöös. DH on keskendatud humanitaarteadustes infotehnoloogiliste lahenduste rakendamisele ja juurutamisele. Digitaalhumanitaariaga on seotud märksõnad interdistsiplinaarsus, uute tehnoloogiate rakendamine uurimistöös, avatud ligipääs andmetele. 
+
+Kuigi digitaalhumanitaaria keskmes on eelkõige arvutuslike uurimismeetodite kasutamine, on selle eelduseks hästi­struktureeritud andmekogude olemasolu või loomine. Digitaalhumanitaarial on tähtis ühisosa mitme eraldiseisva digitaaliat puudutava uurimissuuna ja tegevusega, nagu seda on näiteks digitaalkultuuri uuringud, digitaalarhiivindus, digitaalne publitseerimine, digitaalharidus jms.
+
+
+IT-rakenduste teadlikum haldamine ja uurimistööga seostamine võib tuua kasu nii uurijatele kui ka avalikkusele. 
+
+
+
+
+
+
+Humanities research cyle however includes facets other than analyzing. This includes data access & storage, and also presentation and dissemination. The digital
+tools offer many ways how traditional humanities research cycles can be improved in efficiency (quicker and better), transparency (making steps of the research process more visible),
+ effectiveness (more info from same materials), reliability (better assessment of uncertainty), etc. This is a goal to work towards.
+
+People living in the digital realms can be studied with the means of traditional humanities, or with the help of computer related tools. Not everyone needs to learn
+how to program, but to use digital tools meaningfully, you need to know what's out there, and be able to explain to people who do use them, what you have in mind.
+
+
+
+This includes:
+    - A variety of tools just to facilitate regular humanities research. Humanities scholars have been keeping notes for all time, but only recently have those notes become searchable and easily shareable. This simplifies regular humanities work, but also allows for new means for sharing the research process, with the initiatives such as open notebook science etc.
+    - New kinds of research questions - computer assistance allows the regular humanities topics to be tackled in new ways, and new kind of info to be derived from them. 
+    - Inference and analysis opportunities that emerge from using digitized data, as well as the procedures that should be followed in interpreting them. Statistics must be a friend of dh.
+    - Data storage and accessibility (getting the research materials into computers and storing them so they are must useful and usable).
+    - Presentation of research results (digital means allows regular humanities findings to be presented in an interactive way, and allows for many different channels of output in addition to normal text).
+
+
+	

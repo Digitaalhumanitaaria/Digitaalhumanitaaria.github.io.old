@@ -4,10 +4,10 @@
     	<div class="leftcol">
 		       	<h2></h2>
         	<ul>
-            	<li><a href="#">Next upcoming meeting at 13.10.2016</a></li><br><br>
-            	<li><a href="#">Estonian DH meeting at 13-14.10.2016</a></li><br><br>
-            	<li><a href="#">A recent blog entry title</a></li><br><br>
-            	<li><a href="#">Anoter recent blog entry title</a></li><br><br>
+            	<li><a href="http://viki.keeleleek.ee/wiki/EDS-kiri-30.09">Society meeting and elections at 13.10.2016</a></li><br><br>
+            	<li><a href="http://www.folklore.ee/dh/en/dhe_2016/">Digital Humanities in Estonia A° 2016 at 12-14.10.2016</a></li><br><br>
+            	<li><a href="http://viki.keeleleek.ee/wiki/Tarkvaraseminar_10.06">The first software applications seminar at 10.06.2016</a></li><br><br>
+            	<li><a href="http://viki.keeleleek.ee/wiki/EDS-kiri-10.03">The Society is founded at 05.03.2016</a></li><br><br>
             </ul>
             
 		</div>

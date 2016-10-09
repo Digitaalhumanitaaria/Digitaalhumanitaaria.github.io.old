@@ -1,0 +1,47 @@
+
+
+
+Eesti Digitaalhumanitaaria Selts asutati digitaalhumanitaaria teadlikuks arendamiseks ja mõtestamiseks Eesti ühiskonna kontekstis. Selts püüab koondada informatsiooni digitaalhumanitaaria lähenemist kasutavate ja võimaldavate uurijate, asutuste ja uurimisteemade kohta kohalikul tasandil ning vahendada informatsiooni rahvusvahelise kogukonnaga. Seltsi eesmärgiks on tõsta teadlikkust digitaalhumanitaaria vahendite võimalustest nii uurijate kui ka avalikkuse ees.
+
+Seltsi peamised eesmärgid on hetkel:
+
+* Parandada nähtavust digitaalhumanitaaria arengutest ja võimalustest Eesti ühiskonnas
+* Koondada informatsiooni digitaalhumanitaariaalastest ettevõtmistest ja kompetentsis Eestis
+* Toetada omavahelist teabe ja kompetentsi jagamist uurijate vahel
+
+
+
+
+
+* Koondada ülevaade digitaalhumanitaariateemalistest ettevõtmistest ning kompetentsist Eestis
+
+
+
+
+
+
+
+Improve visibility of Digital Humanities  in Estonia
+Chart out the Digital Humanities related projects in Estonia, gather an overview of the available expertise in the field, and make it accessible to interested parties
+Connect the researchers already working in related areas, help ground collaborations between them
+
+
+
+
+ Seltsi eesmärk on toetada ja propageerida arvutipõhiste abivahendite kasutamist humanitaarses uurimistöös ning tõsta teadlikkust võimalustest, mida need pakuvad. Selts eesmärgiks on ka tihendada sidemeid eri digitaalhumanitaariaga tegelevate uurijate vahel ning toetada omavahelist teabe ja kompetentsi jagamist. Selts seab eesmärgiks ka aidata praktiseerivatel humanitaarteadlastel leida kontakt neile kasulike infotehnoloogiliste oskustega inimestega ning toetada nende omavahelist suhtlust. Selts seab eesmärgiks ka omada ülevaadet digitaalhumanitaaria valdkonnaga seostuvate isikute ja organisatsioonide võimalustest ja praktikast arvutipõhiste abivahendite rakendamisel. Selts püüab pikemas perspektiivis aidata kaasa arvutipõhiste lahenduste kasutuselevõtmist kõikjal humanitaarias, kus see uurimistööle kaasa saab aidata. 
+2.2. Eesmärgi täitmiseks tegeleb Selts digitaalhumanitaaria-alase teadmuse ja kompetentsi koondamise ja tutvustamisega. Sel otstarbel loob selts oma veebilehe ning rakendab avalikku viki-põhist teadmusbaasi kogukonnasisese teadmise koondamiseks. Selts korraldab ja koordineerib teemakohaseid üritusi (konverentse, ettekandeid, seminare jne), toetab võimaluse korral valdkonnaalaste publikatsioonide ilmumist. Selts hoiab ühendust eesmärkidelt lähedaste ühingutega Eestis ja välismaal. Selts püüab tutvustada ja koordineerida nende digitaalhumanitaariaga seonduvat uurimistööd informatsiooni talletamise ja jagamise kaudu. Selts propageerib oma üritustel ja väljaannetes digitaalhumanitaariat laiemale avalikkusele. Selts arendab muud seadusega lubatud tegevust, mis on vajalik Seltsi eesmärkide saavutamiseks.
+
+
+Nendelesamadele loodud andmekogudele tuginev suurandmete analüüs jääb aga humanitaarile enamasti kättesaamatuks, sest see nõuab teadlaselt humanitaarvaldkonnast pisut väljapoole jäävate teadmiste ja oskuste omandamist.
+
+Ometi oleme digihumanitaarias paljudest sammukese tagapool. Oluliseks näitajaks on saanud see, kuidas ja milleks tehnoloogiat kasutatakse. Üheks oluliseks tehnoloogia kasutusvaldkonnaks teadmistepõhises ühiskonnas peaks olema uurimistöö. Teaduses on tehnoloogia kasutamine andmete kogumisel, töötlemisel, esitamisel ja mujalgi plussiks, mida millegi muuga asendada on tihti raske või lausa võimatu.
+
+
+
+EDHSi eesmärk on tutvustada, toetada ja propageerida digivahendite kasutamist humanitaariaalases uurimistöös, suurendada interdistsiplinaarse koostöö võimalusi uurijate vahel ning toetada omavahelist teabe ja kompetentsi jagamist. Seltsi põhikiri sedastab, et selts korraldab ja koordineerib teemakohaseid üritusi (konverentse, töötubasid, seminare jne), loob kontakte teiste DHga seotud ühingutega Eestis ja välismaal ning propageerib oma üritustel ja väljaannetes digitaalhumanitaariat laiemale avalikkusele.
+
+
+Eesti Digitaalhumanitaaria Selts asutati selleks, et koondada inimesi ja mõtteid sel teemal arutlemiseks ning valdkonna sihikindlaks arendamiseks. Selts loodab seeläbi luua paremad võimalused valdkonna uurijate vaheliseks koostööks, suurendada teadlas- ja ühiskonnas teadlikkust digitaalhumanitaariast ja selle pakutavatest võimalustest. Seltsi kavandatav tegevus hõlmab nii seltsisisest infovahetust kui avalikkusele suunatud üritusi ja veebiressursse.
+
+
+The Estonian Society for Digital Humanities was founded to gather people and ideas for a focussed discussion and development of the field. The society hopes to increase the opportunities for cooperation between researchers, improve the awareness of digital humanities and its opportunities among the researchers and the public. The planned activities involve both intra-societal exchange of information as well as events and digital resources directed towards the public.

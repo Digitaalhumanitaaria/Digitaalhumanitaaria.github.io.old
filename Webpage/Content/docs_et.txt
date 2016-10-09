@@ -1,0 +1,10 @@
+		<div id="maincol_container">
+        <div class="maincol">   
+			<h1>Dokumendid</h1>
+					<p></p>
+	 				<p>Seltsi põhikiri on veel kinnitamata, aga selle loomisele võib panustada <a href="https://goo.gl/49BwS3">siin</a>.</p>
+        <div class="maincol_bottom"></div>
+        
+        </div>	
+			</div>
+			

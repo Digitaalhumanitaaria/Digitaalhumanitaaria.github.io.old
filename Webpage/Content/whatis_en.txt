@@ -1,0 +1,22 @@
+		<div id="maincol_container">
+        <div class="maincol">   
+			<h1>What is Digital Humanities?</h1>
+					<p></p>
+					<p></p>
+	 				<p>Digitaalhumanitaaria on kiiresti arenev interdistsiplinaarne liikumine, mis keskendub infotehnoloogiliste lahenduste rakendamisele ja juurutamisele humanitaarteadustes. Arvutiprogrammid on muutunud praeguseks paljude humanitaarteadlaste töö lahutamatuks kaaslaseks ning hetkeküsimuseks on, kuidas kasutada neid võimalikult targalt, nii et uutest lahendustest võita võimalikult palju, pidades silmas et seejuures säiliks humanitaarteaduste eripära. </p>
+					<p>Esmajärgus on tuntust kogunud digitaalandmete võimalus pakkuda humanitaarteadustes korraga ülevaadet suurematest andmekogumitest ning sellega kaasnenud analüüsivõimalustest. Humanitaarteaduste uurimistsükkel võimaldab infotehnoloogia tarka kasutust aga ka tema teistes etappides nagu andmete hoiustamine, ligipääs, esitlemine ja levitamine. Digitaalsed tööriistad võimaldavad hea kasutuse puhul muuta tsüklit kiiremaks (korduvate ülesannete automatiseerimise kaudu), läbipaistvamaks (uurimisprotsessi ning andmete ligipääsetavamaks muutmise kaudu), sügavamaks (uute vahenditega võib saada algallikatest rohkem informatsiooni) ja usaldusväärsemaks (läbipaistvus ja kontrollitud protseduurid võimaldavad hinnata järelduste ulatust).</p>
+					<p>Digitaalhumanitaaria teadlik viljelemine saab tuua kasu nii uurijatele, kes saavad keskenduda teadmiste loomisele, kui ka laiemale avalikkusele võimaldades uusi viise uurimistulemuste ja protsessiga suhestumiseks ning ehk ka kodanikuteaduse korras kaasa aitamiseks.</p>
+					<p></p>
+					<h2>Digitaalhumanitaariast võib kasu olla</h2>
+					<ul>
+							<li>Targa märkmetetegemise juures (otsitavus, jagatavus, kauaaegne ligipääsetavus)</li>
+							<li>Suurte andmekogude koondamisel, ladustamisel ja käsitlemisel</li>
+							<li>Järelduskäigu ja analüüsi juures</li>
+							<li>Uut tüüpi uurimisküsimuste püstitamisel ja lahendamisel</li>
+							<li>Uurimistulemuste esitamisel võimaldades interaktiivsust, replitseeritavust ning ligipääsu uurimisprotsessile</li>
+					</ul>
+        <div class="maincol_bottom"></div>
+        
+        </div>	
+			</div>
+			

@@ -3,10 +3,10 @@
 		      <div id="leftcol_container">
     	<div class="leftcol">
         	<ul>
-            	<li><a href="#">Järgmine seltsi kohtumine on 13.10.2016</a></li><br><br>
-            	<li><a href="#">Eesti DH konverents 13-14.10.2016</a></li><br><br>
-            	<li><a href="#">Hiljutine blogisissekanne</a></li><br><br>
-            	<li><a href="#">Veel üks blogisissekanne</a></li><br><br>
+            	<li><a href="http://viki.keeleleek.ee/wiki/EDS-kiri-30.09">Järgmine seltsi koosolek 13.10.2016</a></li><br><br>
+            	<li><a href="http://www.folklore.ee/dh/dhe2016/">Eesti digitaalhumanitaaria A° 2016 12-14.10.2016</a></li><br><br>
+            	<li><a href="http://viki.keeleleek.ee/wiki/Tarkvaraseminar_10.06">Esimene tarkvaraseminar 10.06.2016</a></li><br><br>
+            	<li><a href="http://viki.keeleleek.ee/wiki/EDS-kiri-10.03">05.03.2016 asutati Eesti Digitaalhumanitaaria Selts</a></li><br><br>
             </ul>
             
 		</div>

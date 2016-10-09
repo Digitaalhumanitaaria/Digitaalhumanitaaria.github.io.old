@@ -1,0 +1,69 @@
+
+		<div id="maincol_container">
+        <div class="maincol">   
+			<h1>Seltsi liikmed</h1>
+	 				<p>Seltsil on hetkel 55 liiget. Seltsiga saab liituda kergelt <a href="https://goo.gl/p1eAUP">elektroonilise avalduse kaudu</a>. Liikmemaksu hetkel seltsil ei ole.</p>
+													<h1>Juhatuse liikmed</h1>			
+					<p>Juhatus valitakse järgmisel seltsi kohtumisel 13.10.2016.</p>
+													<h1>Liikmete nimekiri</h1>
+					<div class="memberlist">
+Aigi Rahi-Tamm<br>
+Artjom Shelya<br>
+Andres Karjus<br>
+Anu Lepp<br>
+Benson Muite<br>
+Boglarka Janurik<br>
+Djuddah A.J. Leijen<br>
+Elle-Mari Talivee<br>
+Federico Bellentani<br>
+Gerth Jaanimäe<br>
+Henn Sarv<br>
+Johanna Kiik<br>
+Juuli Nava<br>
+Kaarel Kesamaa<br>
+Kaarina Rein<br>
+Kadri Muischnek<br>
+Kadri Vare<br>
+Kaspar Lasn<br>
+Katre Pärn<br>
+Kristel Algvere<br>
+Kristiina Kallasmaa<br>
+Liina Lindström<br>
+Liina Lukas<br>
+Liina Saarlo<br>
+Liisi Laineste<br>
+Maili Pilt<br>
+Margo Saaremets<br>
+Mari Sarv<br>
+Mark Moll<br>
+Martin Ehala<br>
+Mati Marits<br>
+Minna Räty<br>
+Neeme Kahusk<br>
+Nele Salveste<br>
+Oleg Sobchuk<br>
+Peeter Tinits<br>
+Piret Viires<br>
+Pärtel Lippus<br>
+Riina Oruaas<br>
+Risto Järv<br>
+Roman Leibov<br>
+Siiri Pärkson<br>
+Silke Pasewalck<br>
+Sulev Iva<br>
+Sven Aller<br>
+Tanel Kerikmäe<br>
+Tanel Mällo<br>
+Tatjana Pilipoveca<br>
+Timur Guzairov<br>
+Toivo Vajakas<br>
+Tõnu Seilenthal<br>
+Vahur Puik<br>
+Valera Ponomarjov<br>
+Virve Vihman<br>
+Yar Muhammad<br>
+					</div>
+        <div class="maincol_bottom"></div>
+        
+        </div>	
+			</div>

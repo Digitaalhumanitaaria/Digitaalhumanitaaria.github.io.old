@@ -37,10 +37,10 @@
 		  <div id="haut">
 			<ul class="menuhaut">
 				<li><a href="index_en.html">About</a></li>
-				<li><a href="">What is Digital Humanities?</a></li>
-				<li><a href="">Members</a></li>
-				<li><a href="">Documents</a></li>
-				<li><a href="">Events</a></li>
+				<li><a href="whatis_en.html">What is Digital Humanities?</a></li>
+				<li><a href="activities_en.html">Activities</a></li>
+				<li><a href="members_en.html">Members</a></li>
+				<li><a href="docs_en.html">Documents</a></li>
 				<li><a href="index_et.html">in Estonian</a></li>
 			</ul>
 		  </div>

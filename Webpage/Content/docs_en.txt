@@ -1,0 +1,11 @@
+
+		<div id="maincol_container">
+        <div class="maincol">   
+			<h1>Documents</h1>
+					<p></p>
+	 				<p>The Society's Constitution has not yet been ratified, however it is possible to contribute to the draft <a href="https://goo.gl/49BwS3">here</a>.</p>
+        <div class="maincol_bottom"></div>
+        
+        </div>	
+			</div>
+			

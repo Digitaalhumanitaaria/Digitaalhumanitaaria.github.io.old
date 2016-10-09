@@ -4,14 +4,14 @@
         
         
         <div class="rightcol">
-        <h2><a href="#"><center>How to join us</center></a></li></h2>
+        <h2><a href="https://goo.gl/p1eAUP"><center>Kuidas liituda</center></a></li></h2>
         </div>
         <div class="rightcol_bottom"></div>
-        <div class="rightcol">
+        <div class="rightcol2">
      <a class="twitter-timeline"
-         href="https://twitter.com/ISChpc"
+         href="https://twitter.com/DHSoc_Estonia"
          height="350">
-         Tweets by @ISChpc
+         @DHSoc_Estonia Säutsud
       </a>
         </div>
         <div class="rightcol_bottom"></div>
@@ -20,7 +20,7 @@
 	</div>
 	
 	<div class="clear"></div>
-				<div id="footer"><center><a href="#">Contact Us</a><br></center><h3>Design by <a href="http://nicolas.freezee.org">Nicolas Fafchamps</a></div>
+				<div id="footer"><center>Võta meiega ühendust digitaalhumanitaaria [ät] gmail.com<br></center><h3>Web based on templates by <a href="http://www.bryantsmith.com">Bryant Smith</a> and <a href="http://nicolas.freezee.org">Nicolas Fafchamps</a></div>
 
 		</div>
 		</div>
