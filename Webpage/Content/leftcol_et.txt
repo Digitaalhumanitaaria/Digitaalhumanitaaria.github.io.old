@@ -1,6 +1,6 @@
 
 		      <div id="main">
-		      <div id="leftcol_container">
+		      <div id="leftcol_container_et">
     	<div class="leftcol">
         	<ul>
             	<li><a href="http://viki.keeleleek.ee/wiki/EDS-kiri-30.09">Järgmine seltsi koosolek 13.10.2016</a></li><br><br>

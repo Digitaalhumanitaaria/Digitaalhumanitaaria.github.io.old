@@ -27,7 +27,7 @@
 	<body>
 	<div id="container">
 	<div id="header">
-	    <div id="picture">
+	    <div id="picture_en">
         </div>
     </div>
 

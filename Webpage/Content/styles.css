@@ -146,14 +146,21 @@ width:409px;
 	
 }
 
-#leftcol_container
+#leftcol_container_en
 {
 float:left;
 margin-left:0px;
-background-image:url(images/leftcol_top.jpg);
+background-image:url(images/leftcol_top_en.jpg);
 background-repeat:no-repeat;
 }
 
+#leftcol_container_et
+{
+float:left;
+margin-left:0px;
+background-image:url(images/leftcol_top_et.jpg);
+background-repeat:no-repeat;
+}
 
 .leftcol_bottom
 {
@@ -351,11 +358,19 @@ margin-bottom:0px;
 margin-top:0px;
 }
 
-#picture
+#picture_en
 {
 	width:914px;
 	height:212px;
-	background-image:url(images/header_dh_914.jpg);
+	background-image:url(images/header_dh_914_en.jpg);
+	background-repeat:no-repeat;	
+}
+
+#picture_et
+{
+	width:914px;
+	height:212px;
+	background-image:url(images/header_914_et.jpg);
 	background-repeat:no-repeat;	
 }
 
