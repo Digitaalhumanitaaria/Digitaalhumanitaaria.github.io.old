@@ -215,9 +215,9 @@ height:auto;
 }
 .leftcol ul {
     position: relative;
-    left: 80px;
+    left: 25px;
     top: 20px;
-	width:150px;
+	width:195px;
 	font-size:0.5em;
 }
 
@@ -251,6 +251,12 @@ background-color:#FFFFFFF;
 width:403px;
 min-height:500px;
 }
+
+.maincol h1
+{
+padding-top:30px;
+}
+
 
 .rightcol
 {
