@@ -4,21 +4,21 @@
 			<h1>Estonian Digital Humanities Society</h1>
 					<p></p>
 	 				<p>			
-					Eesti Digitaalhumanitaaria Selts asutati digitaalhumanitaaria teadlikuks arendamiseks ja mõtestamiseks Eesti ühiskonna kontekstis. Selts püüab koondada informatsiooni digitaalhumanitaaria lähenemist kasutavate ja võimaldavate uurijate, asutuste ja uurimisteemade kohta kohalikul tasandil ning vahendada informatsiooni rahvusvahelise kogukonnaga. Seltsi eesmärgiks on tõsta teadlikkust digitaalhumanitaaria vahendite võimalustest nii uurijate kui ka avalikkuse ees. </p>
+					Estonian Digital Humanities Society was founded to develop digital humanities in the context of Estonia and reflect on its position. The Society aims to gather information on researchers, institutions and topics that use or allow a digital humanities approach here, and to allow information transmission with the international community. The purpose of the society is to raise awareness of the possibiliities of digital humanities means both for the researchers and the public.</p>
 					<p></p>
 					<h2></h2>
-					<h3>Seltsi peamised eesmärgid on hetkel</h3>
+					<h3>Current main aims of the society</h3>
 					<ul>
-							<li>Parandada nähtavust digitaalhumanitaaria arengutest ja võimalustest Eesti ühiskonnas</li>
-							<li>Koondada informatsiooni digitaalhumanitaariaalastest ettevõtmistest ja kompetentsis Eestis</li>
-							<li>Toetada omavahelist teabe ja kompetentsi jagamist uurijate vahel</li>
+							<li>To improve visibility of digital humanities developments and opportunities in Estonia</li>
+							<li>To gather information on digital humanities initiatives and competence in Estonia</li>
+							<li>To support the sharing of knowledge and competence between researchers in digital humanities</li>
 					</ul>
-					<h3>Tegevused</h3>
+					<h3>Activities</h3>
 					<ul>
-							<li>Digitaalhumanitaaria teemalised <a href="http://www.folklore.ee/dh/dhe2016/">konverentsid</a> Eestis</li>
-							<li><a href="http://viki.keeleleek.ee/wiki/Tarkvaraseminar_10.06">Seminarid</a> arvutite kasutamisest igapäevauurimistöös</li>
-							<li>Digitaalhumanitaaria teemalise <a href="http://viki.keeleleek.ee/">viki</a> haldamine</li>
-							<li>Digitaalhumanitaaria meedias</li>
+							<li>Digital Humanities <a href="http://www.folklore.ee/dh/dhe2016/">conferences</a> in Estonia</li>
+							<li><a href="http://viki.keeleleek.ee/wiki/Tarkvaraseminar_10.06">Seminars</a> on the use of computers in daily research</li>
+							<li>Maintaining the contents of a digital humanities themed <a href="http://viki.keeleleek.ee/">wiki</a></li>
+							<li>Digital humanities in the media</li>
 					</ul>
         <div class="maincol_bottom"></div>
         
