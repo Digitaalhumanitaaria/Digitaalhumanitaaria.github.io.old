@@ -27,19 +27,18 @@
 	<body>
 	<div id="container">
 	<div id="header">
-	    <div id="picture_en">
+	    <div id="picture_et">
         </div>
     </div>
-
-			  
+		  
 		  <div id="haut">
 			<ul class="menuhaut">
-				<li><a href="index_en.html">About</a></li>
-				<li><a href="whatis_en.html">What is Digital Humanities?</a></li>
-				<li><a href="activities_en.html">Activities</a></li>
-				<li><a href="members_en.html">Members</a></li>
-				<li><a href="docs_en.html">Documents</a></li>
-				<li><a href="index_et.html">in Estonian</a></li>
+				<li><a href="index.html">Kodu</a></li>
+				<li><a href="mison_et.html">Mis on digitaalhumanitaaria?</a></li>
+				<li><a href="tegevused_et.html">Tegevused</a></li>
+				<li><a href="liikmed_et.html">Liikmed</a></li>
+				<li><a href="dok_et.html">Dokumendid</a></li>
+				<li><a href="index_en.html">in English</a></li>
 			</ul>
 		  </div>
 		  <div class="clear"></div>
