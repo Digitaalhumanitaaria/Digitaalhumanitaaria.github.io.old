@@ -4,7 +4,7 @@
 			<h1>Seltsi liikmed</h1>
 	 				<p>Seltsil on hetkel 55 liiget. Seltsiga saab liituda kergelt <a href="https://goo.gl/p1eAUP">elektroonilise avalduse kaudu</a>. Liikmemaksu hetkel seltsil ei ole.</p>
 													<h1>Juhatuse liikmed</h1>			
-					<p>Juhatus valitakse järgmisel seltsi kohtumisel 13.10.2016.</p>
+					Andres Kimber, Liisi Laineste, Liina Lindström, Mari Sarv, Peeter Tinits
 													<h1>Liikmete nimekiri</h1>
 					<div class="memberlist">
 Aigi Rahi-Tamm<br>

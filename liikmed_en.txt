@@ -4,7 +4,7 @@
 			<h1>Members of the society</h1>
 	 				<p>Currently the society has 55 members. You can join the society by filling out <a href="https://goo.gl/p1eAUP">an electronic application</a>. There is no membership fee at the moment.</p>
 													<h1>Board members</h1>	
-					<p>Board members will be elected at the society meeting of 13.10.2016.</p>
+					Andres Kimber, Liisi Laineste, Liina Lindström, Mari Sarv, Peeter Tinits
 													<h1>List of current members</h1>
 					<div class="memberlist">
 Aigi Rahi-Tamm<br>
