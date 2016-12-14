@@ -39,7 +39,7 @@
 				<li><a href="activities_en.html">Activities</a></li>
 				<li><a href="members_en.html">Members</a></li>
 				<li><a href="docs_en.html">Documents</a></li>
-				<li><a href="index.html">in Estonian</a></li>
+				<li><a href="index.html">Eesti keeles</a></li>
 			</ul>
 		  </div>
 		  <div class="clear"></div>
